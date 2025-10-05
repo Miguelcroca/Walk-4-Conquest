@@ -74,19 +74,13 @@ Questões de privacidade (localização).
 
 
 
-Gestão do Projeto
+Gestão do Projeto:
 
 Monitorização e controlo
 
 Relatórios de progresso
 
 Análise e Design
-
-Levantamento de requisitos
-
-Design do modelo de domínio
-
-Protótipo de interface (UI/UX)
 
 Desenvolvimento da App
 
