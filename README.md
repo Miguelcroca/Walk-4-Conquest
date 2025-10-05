@@ -32,6 +32,8 @@ Competição: mecanismo de disputa de territórios entre utilizadores.
 
 
 
+![poster w4](https://github.com/user-attachments/assets/75ec6759-8aae-4d46-8171-f78f2b9335d6)
+
 Requisitos funcionais: 
 
 O sistema deve permitir ao utilizador criar conta e autenticar-se.
@@ -71,6 +73,9 @@ Consumo excessivo de bateria devido ao GPS.
 
 Questões de privacidade (localização).
 
+
+
+![mockup](https://github.com/user-attachments/assets/fea52f55-711a-4f2f-930a-b6db1e79a580)
 
 
 
